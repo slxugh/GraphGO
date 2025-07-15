@@ -1,0 +1,124 @@
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\bin\Debug\GraphGO.exe.config
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\bin\Debug\GraphGO.exe
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\bin\Debug\GraphGO.pdb
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.AssemblyReference.cache
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\obj\Debug\MainWindow.g.cs
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\obj\Debug\App.g.cs
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\obj\Debug\GraphGO_MarkupCompile.cache
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\obj\Debug\GraphGO_MarkupCompile.lref
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\obj\Debug\MainWindow.baml
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\obj\Debug\GraphGO.g.resources
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\obj\Debug\GraphGO.Properties.Resources.resources
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.GenerateResource.cache
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.CoreCompileInputs.cache
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\obj\Debug\GraphGO.exe
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\obj\Debug\GraphGO.pdb
+D:\3 курс\Курсовая РПМ\GraphGO\GraphGO\obj\Debug\App.baml
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphGO.exe.config
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphGO.exe
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphGO.pdb
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.Standard.Common.dll
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.Standard.Logic.dll
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.WPF.Controls.dll
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\QuickGraph.dll
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.Standard.Common.pdb
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.Standard.Logic.pdb
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.WPF.Controls.pdb
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.AssemblyReference.cache
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\MainWindow.baml
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\MainWindow.g.cs
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\App.g.cs
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO_MarkupCompile.cache
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO_MarkupCompile.lref
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\App.baml
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.g.resources
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.GenerateResource.cache
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.CoreCompileInputs.cache
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.Up2Date
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.exe
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.pdb
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\InputDialog.baml
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\InputDialog.g.cs
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphGO.exe.config
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphGO.exe
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphGO.pdb
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.Standard.Common.dll
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.Standard.Logic.dll
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.WPF.Controls.dll
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\QuickGraph.dll
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.Standard.Common.pdb
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.Standard.Logic.pdb
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.WPF.Controls.pdb
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.AssemblyReference.cache
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\InputDialog.baml
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\MainWindow.baml
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\InputDialog.g.cs
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\MainWindow.g.cs
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\App.g.cs
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO_MarkupCompile.cache
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO_MarkupCompile.lref
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\App.baml
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.g.resources
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.Properties.Resources.resources
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.GenerateResource.cache
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.CoreCompileInputs.cache
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.Up2Date
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.exe
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.pdb
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\Newtonsoft.Json.dll
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\Newtonsoft.Json.xml
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\Newtonsoft.Json.dll
+E:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\Newtonsoft.Json.xml
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.AboutProgram.resources
+D:\3 курс\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphDemo.Properties.Resources.resources
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphGO.exe.config
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphGO.exe
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphGO.pdb
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.Standard.Common.dll
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.Standard.Logic.dll
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.WPF.Controls.dll
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\QuickGraph.dll
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.Standard.Common.pdb
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.Standard.Logic.pdb
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphX.WPF.Controls.pdb
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\InputDialog.baml
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\MainWindow.baml
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\InputDialog.g.cs
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\MainWindow.g.cs
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\App.g.cs
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO_MarkupCompile.cache
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO_MarkupCompile.lref
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\App.baml
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.g.resources
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.AboutProgram.resources
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphDemo.Properties.Resources.resources
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.GenerateResource.cache
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.Up2Date
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.exe
+C:\Users\root\Desktop\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.pdb
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.AssemblyReference.cache
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\InputDialog.baml
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\MainWindow.baml
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\InputDialog.g.cs
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\MainWindow.g.cs
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\App.g.cs
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO_MarkupCompile.cache
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO_MarkupCompile.lref
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.exe
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.pdb
+D:\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphGO.exe.config
+D:\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphGO.exe
+D:\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\GraphGO.pdb
+D:\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\Newtonsoft.Json.dll
+D:\Курсовая РПМ C#\GraphGO\GraphGO\bin\Debug\Newtonsoft.Json.xml
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\App.baml
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.g.resources
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.AboutProgram.resources
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphDemo.Properties.Resources.resources
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.GenerateResource.cache
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.CoreCompileInputs.cache
+D:\Курсовая РПМ C#\GraphGO\GraphGO\obj\Debug\GraphGO.csproj.Up2Date

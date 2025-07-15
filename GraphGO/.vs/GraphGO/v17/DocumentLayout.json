@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|d:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043F\u043C c#\\graphgo\\graphgo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|solutionrelative:graphgo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\graphgo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|solutionrelative:graphgo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\graphgo\\inputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|solutionrelative:graphgo\\inputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\graphgo\\inputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|solutionrelative:graphgo\\inputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\graphgo\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|solutionrelative:graphgo\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\graphgo\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|solutionrelative:graphgo\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\graphgo\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{6D3A9DC6-4165-4E6C-A3BB-1B0358D939F2}|GraphGO\\GraphGO.csproj|solutionrelative:graphgo\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\Data.cs",
+              "RelativeDocumentMoniker": "GraphGO\\Data.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\Data.cs",
+              "RelativeToolTip": "GraphGO\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:10:34.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vertex.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\Vertex.cs",
+              "RelativeDocumentMoniker": "GraphGO\\Vertex.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\Vertex.cs",
+              "RelativeToolTip": "GraphGO\\Vertex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:10:20.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "GraphGO\\ClassDiagram.cd",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\ClassDiagram.cd",
+              "RelativeToolTip": "GraphGO\\ClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-06-19T18:08:23.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GraphGO\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GraphGO\\MainWindow.xaml.cs",
+              "ViewState": "AgIAANcBAAAAAAAAAAAowBoCAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:50:11.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GraphGO\\MainWindow.xaml",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\MainWindow.xaml",
+              "RelativeToolTip": "GraphGO\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T16:24:48.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputDialog.xaml.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\InputDialog.xaml.cs",
+              "RelativeDocumentMoniker": "GraphGO\\InputDialog.xaml.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\InputDialog.xaml.cs",
+              "RelativeToolTip": "GraphGO\\InputDialog.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:54:45.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputDialog.xaml",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\InputDialog.xaml",
+              "RelativeDocumentMoniker": "GraphGO\\InputDialog.xaml",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0420\u041F\u041C C#\\GraphGO\\GraphGO\\InputDialog.xaml",
+              "RelativeToolTip": "GraphGO\\InputDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T10:35:39.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

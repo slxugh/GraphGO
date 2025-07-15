@@ -1,0 +1,102 @@
+﻿<Window x:Name="MainForm" 
+        x:Class="GraphDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GraphGO | Программа демонстратор для решения задач на графах" 
+        Height="697" Width="1104" FontFamily="Noto Sans">
+    <DockPanel x:Name="DockPanel" Background="#FFE0E0E0">
+        <!-- Верхнее меню приложения -->
+        <Menu x:Name="TopMenu" DockPanel.Dock="Top" Background="#FFCECECE" FontFamily="Noto Sans" FontSize="16">
+            <MenuItem x:Name="MenuItemFile" Header="Файл">
+                <MenuItem x:Name="btnImportMenu" Header="Импорт" Click="btnImport_Click" />
+                <MenuItem x:Name="btnExportMenu" Header="Экспорт" Click="btnExport_Click"/>
+                <Separator/>
+                <MenuItem x:Name="btnExitMenu" Header="Выход" Click="btnExit_Click" />
+            </MenuItem>
+            <MenuItem x:Name="MenuItemGraph" Header="Граф">
+                <MenuItem x:Name="btnAddVertexMenu" Header="Добавить вершину" Click="btnAddVertexMenu_Click" />
+                <MenuItem x:Name="btbAddEdgeMenu" Header="Добавить ребро" Click="btbAddEdgeMenu_Click" />
+                <MenuItem x:Name="btbDeleteVertexMenu" Header="Удалить вершину" Click="btbDeleteVertexMenu_Click"/>
+                <MenuItem x:Name="btbClearMenu" Header="Очистить граф" Click="btbClearMenu_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="MenuItemTasks" Header="Задачи">
+                <MenuItem x:Name="btnSolveDijkstraMenu" Header="Алгоритм Дейкстры" Click="btnSolveDijkstraMenu_Click"/>
+                <MenuItem x:Name="btnSolveBelmanMenu" Header="Алгоритм Беллмана–Форда" Click="btnSolveBelmanMenu_Click"/>
+                <MenuItem x:Name="btnSolveAStarMenu" Header="Алгоритм A*" Click="btnSolveAStarMenu_Click"/>
+                <MenuItem x:Name="btnSolveBFSMenu" Header="Поиск в ширину" Click="btnSolveBFS_Click"/>
+                <MenuItem x:Name="btnSolveDFSMenu" Header="Поиск в глубину" Click="btnSolveDFS_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="MenuItem" Header="О программе" Click="MenuItem_Click"></MenuItem>
+        </Menu>
+        <!-- Панель кнопок под меню -->
+        <StackPanel x:Name="StackMenu" DockPanel.Dock="Top"  Orientation="Horizontal" Margin="10" Height="43">
+            <Label x:Name="labelTitle" Content="GraphGO" Height="44" FontFamily="Dela Gothic One" FontSize="22" 
+                   VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="5,0,5,0">
+                <Label.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FF009CFF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Label.Foreground>
+            </Label>
+            <Image x:Name="btnAddVertex" Height="35" Width="35" Source="/Assets/Pics/addVertex.png" Margin="5,0,5,0" ToolTip="Добавление вершин" MouseDown="btnAddVertex_MouseDown">
+                <Image.OpacityMask>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FF009CFF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Image.OpacityMask>
+            </Image>
+            <Image x:Name="btnAddEdge" Height="35" Width="35" Source="/Assets/Pics/addEdge.png" Margin="5,0,5,0" ToolTip="Добавление граней" MouseDown="btnAddEdge_MouseDown"/>
+            <Image x:Name="btnMove" Height="35" Width="35" Source="/Assets/Pics/move.png" Margin="5,0,5,0" ToolTip="Перемещение вершин" MouseDown="btnMove_MouseDown"/>
+            <Image x:Name="btnDelete" Height="40" Width="40" Source="/Assets/Pics/delete.png" Margin="5,0,5,0" ToolTip="Удаление вершин" MouseDown="btnDelete_MouseDown"/>
+            <Image x:Name="btnClear" Height="40" Width="40" Source="/Assets/Pics/clear.png" Margin="5,0,5,0" ToolTip="Очистка графа" MouseDown="btnClear_MouseDown"/>
+            <Button x:Name="btnSolveDjikstra" Content="Алгоритм Дейкстры" Width="131" Margin="5,0,5,0" BorderThickness="1.5" Background="#FFFFF4F4" Click="btnSolveDjikstra_Click">
+                <Button.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FF009CFF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.BorderBrush>
+            </Button>
+            <Button x:Name="btnSolveBelman" Content="Алгоритм Беллмана–Форда" Width="173" Margin="5,0,5,0" BorderThickness="1.5" Background="#FFFFF4F4" Click="btnSolveBelman_Click">
+                <Button.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FF009CFF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.BorderBrush>
+            </Button>
+            <Button x:Name="btnSolveAStar" Content="Алгоритм A*" Width="91" Margin="5,0,5,0" BorderThickness="1.5" Background="#FFFFF4F4" Click="btnSolveAStar_Click">
+                <Button.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FF009CFF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.BorderBrush>
+            </Button>
+            <Button x:Name="btnBFS" Content="Поиск в ширину" Width="114" Margin="5,0,5,0" BorderThickness="1.5" Background="#FFFFF4F4" Click="btnBFS_Click">
+                <Button.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FF009CFF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.BorderBrush>
+            </Button>
+            <Button x:Name="btnDFS" Content="Поиск в глубину" Width="115" Margin="5,0,5,0" BorderThickness="1.5" Background="#FFFFF4F4" Click="btnDFS_Click">
+                <Button.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FF009CFF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.BorderBrush>
+            </Button>
+        </StackPanel>
+
+        <!-- Область для визуализации графа -->
+        <Canvas x:Name="GraphCanvas" Background="#FFE0E0E0"
+                MouseLeftButtonDown="GraphCanvas_MouseLeftButtonDown"
+                MouseMove="GraphCanvas_MouseMove"
+                MouseLeftButtonUp="GraphCanvas_MouseLeftButtonUp"/>
+    </DockPanel>
+</Window>
